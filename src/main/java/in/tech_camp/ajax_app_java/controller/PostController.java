@@ -40,5 +40,4 @@ public class PostController {
     System.out.println(resultPost);
     return ResponseEntity.ok(resultPost);
   }
-  
 }
